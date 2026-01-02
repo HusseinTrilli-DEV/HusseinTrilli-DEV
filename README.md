@@ -35,7 +35,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 
 ---
 
-### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
+### 🎯 Currently Working On 
 - **Abu-Hadhoud Roadmap**
 - Mastering **C++** & **OOP** 💡  
 - Algorithms and Problem Solving  
