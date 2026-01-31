@@ -21,17 +21,17 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 ---
 
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-- [Project 1 ( Stone - Paper - Scissor )](https://github.com/HusseinTrilli-DEV/Project-01-StonePaperScissorsGame.git)
-- [Project 2 ( Math Game )](https://github.com/HusseinTrilli-DEV/Project-02-Math-Game.git)
-- [Project 3 ( Banking System )](https://github.com/HusseinTrilli-DEV/Project-03-Bank-System.git)
-- [Project 4 ( ATM System )](https://github.com/HusseinTrilli-DEV/Project-04-ATM-System.git)
+- [Project 1 ( Stone - Paper - Scissor - procedural programming )](https://github.com/HusseinTrilli-DEV/Project-01-StonePaperScissorsGame.git)
+- [Project 2 ( Math Game - procedural programming )](https://github.com/HusseinTrilli-DEV/Project-02-Math-Game.git)
+- [Project 3 ( Banking System - procedural programming )](https://github.com/HusseinTrilli-DEV/Project-03-Bank-System.git)
+- [Project 4 ( ATM System _- procedural programming )](https://github.com/HusseinTrilli-DEV/Project-04-ATM-System.git)
 
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
-- 10 - OOP as it should be (concepts) (Programming Advices)
-- Completed 9+ courses in Abu-Hadhoud Roadmap (Programming Advices)
-- Solved 400+ programming problems
+- 11 - OOP as it Should Be – Applications (Programming Advices)
+- Completed 10+ courses in Abu-Hadhoud Roadmap (Programming Advices)
+- Solved 500+ programming problems
 
 ---
 
