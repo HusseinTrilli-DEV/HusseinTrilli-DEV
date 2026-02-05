@@ -57,7 +57,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
-  <a href="https://www.linkedin.com/in/hussein-trilli-90465a373">
+  <a href="https://www.linkedin.com/in/elhocine-trilli-90465a373">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:Hussein.Trilli.husseintrilli@gmail.com">
