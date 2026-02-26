@@ -29,8 +29,8 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
-- 11 - OOP as it Should Be – Applications (Programming Advices)
-- Completed 10+ courses in Abu-Hadhoud Roadmap (Programming Advices) within 7 months
+- 12 - Data Structures – Level 1 (Programming Advices)
+- Completed 11+ courses in Abu-Hadhoud Roadmap (Programming Advices) within 8 months
 - Solved 500+ programming problems
 
 ---
